@@ -1,0 +1,8 @@
+export ZONE=
+
+
+curl -LO raw.githubusercontent.com/quiccklabs/Labs_solutions/master/Orchestrating%20the%20Cloud%20with%20Kubernetes%20AWS/quicklabgsp1120.sh
+
+sudo chmod +x quicklabgsp1120.sh
+
+./quicklabgsp1120.sh
